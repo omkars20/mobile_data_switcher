@@ -1,6 +1,7 @@
 # mobile_data_switcher
 
 A new Flutter project.
+This is mainly used for switching the network
 
 ## Getting Started
 
